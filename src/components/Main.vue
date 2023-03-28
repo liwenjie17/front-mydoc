@@ -119,7 +119,7 @@ export default {
   name: "Main",
   data() {
     const item = {
-      date: "MinDoc帮助手册",
+      date: "MyDoc帮助手册",
       name: "XX",
       address: "dhidsbobsdzbivn",
     };

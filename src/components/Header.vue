@@ -1,7 +1,7 @@
 <template>
     <div  class="card-header" style="border-bottom: 1px solid  rebeccapurple;">
             <ul class="nav nav-pills">
-                <li class="page-header" style="margin-top:10px"><h5>MinDoc文档管理系统</h5></li>
+                <li class="page-header" style="margin-top:10px"><h5>MyDoc文档管理系统</h5></li>
                 <li class="nav-item">
                 <!-- <a class="nav-link active" href=""></a> -->
                 <router-link class="nav-link " active-class="active" to="/homepage" style="margin-left:20px">首页</router-link>
